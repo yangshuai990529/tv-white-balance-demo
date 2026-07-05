@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Excluded local projects
+BeautyAINails/
+p.m/
+个人官网首页设计/
+
