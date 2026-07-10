@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tv-white-balance-demo",
+  "compatibility_date": "2026-07-05",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "white-balance"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
